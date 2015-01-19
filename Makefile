@@ -1,2 +1,2 @@
 all:
-	gcc assembler.c -o assembler -std=c99
+	clang assembler.c -o assembler -std=c99
